@@ -6,7 +6,7 @@
 
 - 🏢 Current working on [Americanas SA](https://www.americanas.com.br/);
 - 🚀 I'm founding the [Codeverso](https://github.com/codeversoteam);
-- 💻 Coding the [Colmena](https://blog.colmena.media/) platform with an incredible international team!
+- 💻 Coding the [Colmena](https://blog.colmena.media/) social platform with an incredible international team!
 
 ##### What is my top languages?
 
