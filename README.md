@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Espirito Santo, Brazil.
+#### I'm a Front-end Developer working in Espirito Santo, Brazil.
 
 ##### What am i doing at the moment?
 
