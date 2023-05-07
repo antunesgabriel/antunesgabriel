@@ -4,7 +4,7 @@
 
 ##### What am i doing at the moment?
 
-- 🏢 Current working on [Americanas SA](https://www.americanas.com.br/);
+- 🏢 Current working on [PicPay](https://picpay.com);
 - 🚀 I'm founding the [Codeverso](https://github.com/codeversoteam);
 - 💻 Coding the [Colmena](https://blog.colmena.media/) (an open source platform with an incredible international team!)
 
