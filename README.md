@@ -6,10 +6,8 @@
 
 - 🏢 Current working on [PicPay](https://picpay.com);
 - 🚀 I'm founding the [Codeverso](https://github.com/codeversoteam);
-- 💻 Coding the [Colmena](https://blog.colmena.media/) (an open source platform with an incredible international team!)
+- 💻 Coding the [Logaflow](https://www.logaflow.com/coming-soon) (my personal side-project!)
 
 ##### What is my top languages?
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antunesgabriel&theme=radical)
-
-##### Portfolio? [Yes I have!](https://gabrielantunes.vercel.app)
