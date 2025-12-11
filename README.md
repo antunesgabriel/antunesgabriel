@@ -1,4 +1,5 @@
-### Hi there 👋
+![screenshot-12_09, 03_48_38 PM](https://github.com/user-attachments/assets/32291fae-8875-4086-86d0-a764cc3dcf1b)
+# Hi there 👋
 
 #### I'm a Front-end Developer working in Espirito Santo, Brazil.
 
